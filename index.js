@@ -225,6 +225,3 @@ class Car extends Vehicle {
         this.fuel = fuel;
     }
 }
-
-
-
